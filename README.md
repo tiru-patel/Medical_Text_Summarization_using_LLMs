@@ -20,6 +20,21 @@ and semantic similarity between the generated and reference summary. Other metri
 evaluation include BLEU score and SaceBLEU.
 </p>
 
+## Results Obtained
+<p align="justify">
+From the result, it is observed that GPT-4 outperforms the summarization models in their niche
+tasks and even without fine-tuning. Medical summarization is very technical in nature and zero-shot
+prediction providing competitive results reaffirms belief in the generalized nature of their learning.
+The trends are similar to GPT-4 performance in medical competitive tests of UCMLE, thus again
+highlighting the complex data analysis capabilities of such LLMS. As far as the comparative study
+of this work is considered It has been proven that very large models which are zero-shot learners
+give comparable or better performance than the fine-tuned models. Further, it has been observed that
+smaller models are marginally poor than the comparatively very large models. So these can point to
+future work, which can analyze the computational cost, and accuracy analysis based on the number
+of parameters. Even further focus on comparing the models on these attributes by fine-tuning them
+with larger data sets. And thus inspecting the marginal utility of spending extra computational cost.
+</p>
+
 ## Files Structure
 <p align="justify">
 1. <b>BART_BASE_Medical_Text_Summarization.ipynb</b>: Fine-tuning of BART-Base Model<br/>
