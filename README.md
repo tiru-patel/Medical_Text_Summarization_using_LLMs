@@ -22,9 +22,9 @@ evaluation include BLEU score and SaceBLEU.
 
 ## Files Structure
 <p align="justify">
-1. <b>BART_BASE_Medical_Text_Summarization.ipynb</b>: Fine-tuning of BART-Base Model
-2. <b>T5_BASE_Medical_Text_Summarization.ipynb</b>: Fine-tuning of T5-Base Model
-3. <b><PEGASUS_LARGE_Medical_Text_Summarization.ipynb/b>: Fine-tuning of Pegasus-Large Model
+1. <b>BART_BASE_Medical_Text_Summarization.ipynb</b>: Fine-tuning of BART-Base Model<br/>
+2. <b>T5_BASE_Medical_Text_Summarization.ipynb</b>: Fine-tuning of T5-Base Model<br/>
+3. <b>PEGASUS_LARGE_Medical_Text_Summarization.ipynb</b>: Fine-tuning of Pegasus-Large Model<br/>
 4. <b>LLMs_evaluation.ipynb</b>: Testing and Inferencing on the test set for Fine-tuned and GPT Models
 </p>
 
